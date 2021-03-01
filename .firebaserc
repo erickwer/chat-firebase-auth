@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "chat-test-55fbf": {
+      "hosting": {
+        "chat-test": [
+          "chat-test-55fbf"
+        ]
+      }
+    }
+  }
+}
